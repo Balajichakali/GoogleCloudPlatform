@@ -1709,3 +1709,5 @@ where platform in ( 'Amazon MP(TVC-v1)', 'Flipkart MP(TVC-v1)')
 on
 
 tab1.date = tab2.order_date and tab1.sku_id = tab2.uc_sku_code and tab1.portal = tab2.platform_)
+
+#Complex
